@@ -4,7 +4,7 @@ This is my solution to the [QR code component challenge](https://www.frontendmen
 
 ## 🔗 Live Preview
 
-👉 [Click here to view the live site]()
+👉 [Click here to view the live site](https://mohamed-ahmed-137.github.io/qr-code-component-main/)
 
 ---
 
